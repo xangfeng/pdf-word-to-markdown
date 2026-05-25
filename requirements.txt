@@ -1,0 +1,31 @@
+# ============================================
+# 文档转换器 (pdf_word_to_markdown) 依赖
+# pip install -r requirements.txt
+# ============================================
+
+# PDF 解析核心
+rapid-doc[cpu]>=0.9.0
+
+# Word 文档读写
+python-docx>=0.8.11
+
+# PDF 基础处理
+PyMuPDF>=1.23.0
+
+# Markdown 解析（MD→Word 方向）
+mistune>=3.0.0
+
+# 图像处理
+Pillow>=10.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# 公式转换（OMML↔LaTeX）
+latex2mathml>=3.80.0
+
+# API 调用（视觉公式增强，可选，任选其一）
+openai>=1.0.0
+# anthropic>=0.30.0  # 仅 Anthropic Claude 需要
+
+# Docling（表格增强，可选）
+# docling>=2.0.0
