@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# 环境配置（含 API key）
+.env
+
+# 输出目录
+output/
+*_output/
+images/
+
+# 测试文件
+*.pdf
+*.docx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# HuggingFace 缓存
+*.cache/
