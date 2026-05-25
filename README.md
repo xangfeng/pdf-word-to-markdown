@@ -306,7 +306,7 @@ A: RapidOCR 内置文字检测，对清晰扫描件支持良好。严重模糊/�
 - [Marker](https://github.com/VikParuchuri/marker) — GPL · PDF→MD reference
 - [MinerU](https://github.com/opendatalab/MinerU) — Apache 2.0 · Document parsing reference
 - [MarkItDown](https://github.com/microsoft/markitdown) — MIT · Microsoft file→MD converter
-- [MarkEverything](https://github.com/your-org/mark-everything) — MIT · OMML formula reference
+- [MarkEverything](https://pypi.org/project/mark-everything/) — MIT · OMML formula reference
 
 ## License
 

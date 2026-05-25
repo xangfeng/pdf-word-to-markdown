@@ -48,7 +48,7 @@
 - **用途**: Word → Markdown 转换方案参考。
 - **致谢**: Microsoft。
 
-### [MarkEverything](https://github.com/your-org/mark-everything)
+### [MarkEverything](https://pypi.org/project/mark-everything/)
 - **许可**: MIT License
 - **用途**: OMML 公式 → LaTeX 转换方案参考。
 - **致谢**: mark-everything 团队。
